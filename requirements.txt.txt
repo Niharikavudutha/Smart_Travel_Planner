@@ -7,3 +7,12 @@ requests>=2.31.0
 python-dotenv>=1.0.1
 streamlit-components>=0.1.0
 warnings
+langchain
+pydantic
+tenacity
+serper
+google-generativeai
+tavily-python
+openrouteservice
+
+
